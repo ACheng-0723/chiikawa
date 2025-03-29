@@ -1,0 +1,81 @@
+/* CSS Document */
+.mian{
+	width:1200px;
+	margin: auto;
+}
+.daohan{
+	margin: 0;
+	width: 1200px;
+	height:60px;
+	background:#a7d394;
+}
+ul{
+	width: 1200px
+}
+li{
+	width: 225px;
+	height:60px;
+	line-height:60px;
+	float: left;
+	text-align: center;
+	list-style: none;	
+}
+li:hover{
+	background:#F4ADB5;
+}
+li a{
+	text-decoration: none;
+	color: aliceblue;
+	display:block;
+}
+.logo{
+	width: 1200px;
+}
+.logo img{
+	width: 1200px;
+	height: 500px;
+}
+.jianjie{
+	width: 1200px;
+	height: 260px;
+	background:#FFFFFF;
+}
+.jianjie img{
+	float: left;
+	width: 200px;
+	height: 260px;
+}
+.jianjie p{
+	float: left;
+	width: 800px;
+	height: 260px;
+	margin-left: 90px;
+}
+h1{
+	text-align: center;
+}
+.jianjie p{
+	text-indent: 2rem;
+	line-height: 35px;
+}
+.footer{
+	width: 1200px;
+	height: 60px;
+	line-height: 60px;
+	background:#a7d394;
+	float: left;
+	text-align: center;
+}
+.jingcai h1{
+	width: 1200px;
+	float: left;
+	text-align: center;
+	margin-top: auto;
+}
+.jingcai img{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 290px;
+	height: 160px;
+}

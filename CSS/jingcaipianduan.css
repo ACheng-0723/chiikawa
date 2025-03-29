@@ -1,0 +1,55 @@
+.mian{
+	width:1200px;
+	margin: auto;
+}
+.daohan{
+	margin: 0;
+	width: 1200px;
+	height:60px;
+	background:#a7d394;
+}
+ul{
+	width: 1200px
+}
+li{
+	width: 225px;
+	height:60px;
+	line-height:60px;
+	float: left;
+	text-align: center;
+	list-style: none;	
+}
+li:hover{
+	background:#F4ADB5;
+}
+li a{
+	text-decoration: none;
+	color: aliceblue;
+	display:block;
+}
+.logo{
+	width: 1200px;
+}
+.logo img{
+	width: 1200px;
+	height: 500px;
+}
+.shiping video{
+	width: 890px;
+	height: 500px;
+	display: block;
+	margin: auto;
+}
+h2{
+	font-size:40px;
+	text-align: center;
+}
+.footer{
+	width: 1200px;
+	height: 60px;
+	line-height: 60px;
+	background:#a7d394;
+	float: left;
+	text-align: center;
+	margin-top: 30px;
+}

@@ -1,0 +1,84 @@
+.mian{
+	width:1200px;
+	margin: auto;
+}
+.daohan{
+	margin: 0;
+	width: 1200px;
+	height:60px;
+	background:#a7d394;
+}
+ul{
+	width: 1200px
+}
+li{
+	width: 225px;
+	height:60px;
+	line-height:60px;
+	float: left;
+	text-align: center;
+	list-style: none;	
+}
+li:hover{
+	background:#F4ADB5;
+}
+li a{
+	text-decoration: none;
+	color: aliceblue;
+	display:block;
+}
+.logo{
+	width: 1200px;
+}
+.logo img{
+	width: 1200px;
+	height: 500px;
+}
+h1{
+	text-align: center;
+}
+.wentu1 img{
+	width: 380px;
+	height: 350px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.mingcheng1 {
+	font-size:150%;
+	width: 1200px;
+	height: 35px;
+	float: left;
+}
+.mingcheng1 p{
+	float: left;
+	text-align: center;
+	margin-top: 8px;
+}
+.wentu1 p{
+	width: 380px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.wentu2 img{
+	width: 380px;
+	height: 350px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.wentu2 p{
+	width: 380px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.footer{
+	width: 1200px;
+	height: 60px;
+	line-height: 60px;
+	background:#a7d394;
+	float: left;
+	text-align: center;
+}
